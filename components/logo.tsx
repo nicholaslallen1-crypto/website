@@ -6,7 +6,7 @@ export function Logo({ light = false }: { light?: boolean }) {
     <Link href="/" className={`brand ${light ? "brand-light" : "brand-dark"}`} aria-label="Allen & Cooper home">
       <span className="brand-image-shell">
         <Image
-          src="/brand/allen-cooper-wordmark.jpg"
+          src="/brand/allen-cooper-wordmark-transparent.png"
           alt="Allen & Cooper"
           width={2048}
           height={682}
