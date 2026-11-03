@@ -1,4 +1,3 @@
-Warning: fs was declared with const; use let for reassignable variables.
 import type { Metadata } from "next";
 import Image from "next/image";
 import { CTA, Eyebrow, PageHero, SectionHeading } from "@/components/ui";
