@@ -1,6 +1,6 @@
 import { NextResponse } from "next/server";
 export const runtime="nodejs";
-const subjects=new Set(["Research enquiry","Institutional partnership","General enquiry"]);
+const subjects=new Set(["Retail research","Institutional research","Strategy roadmap","Partnership","General enquiry"]);
 function isString(x:unknown,max:number){return typeof x==="string"&&x.length<=max;}
 function clean(s:string){return s.replace(/[<>\u0000-\u001f]/g, " ").trim();}
 export async function POST(request:Request){
@@ -18,3 +18,5 @@ export async function POST(request:Request){
     return NextResponse.json({ok:true});
   }catch(e){console.error("Contact delivery exception",e instanceof Error?e.message:"unknown");return NextResponse.json({error:"Enquiry delivery is temporarily unavailable."},{status:502});}
 }
+
+
