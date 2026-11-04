@@ -15,16 +15,16 @@ export default function About() {
           <div className="leader-portrait"><Image src="/founders/nicholas-allen-2026.jpg" alt="Portrait of Nicholas Allen, Co-Founder and Director of Allen & Cooper" fill sizes="(max-width: 800px) 100vw, 50vw" priority /></div>
           <div className="leader-details">
             <Eyebrow>CO-FOUNDER</Eyebrow><h3>Nicholas Allen</h3><div className="role">Co-Founder &amp; Director</div>
-            <p>Nicholas Allen is Co-Founder &amp; Director of Allen &amp; Cooper. His interests centre on macroeconomics, multi-asset financial markets and the application of quantitative research and modelling to investment analysis. He is particularly focused on systematic research architecture, data-driven investment analysis and the design of disciplined risk frameworks.</p>
-            <div className="leader-focus"><span>AREAS OF INTEREST</span><ul><li>Macroeconomics</li><li>Multi-asset markets</li><li>Quantitative research</li><li>Systematic research architecture</li><li>Investment risk frameworks</li></ul></div>
+            <p>Nicholas Allen is Co-Founder &amp; Director of Allen &amp; Cooper. He leads the development of the firm's macroeconomic and multi-asset research frameworks, combining fundamental analysis with quantitative methods, software development, automation and AI-assisted research. His interests span global markets, with a particular focus on foreign exchange, alongside fundamental equity analysis, cross-asset opportunities, portfolio risk management and the robustness of investment models.</p>
+            <div className="leader-focus"><span>AREAS OF INTEREST</span><ul><li>Macroeconomics and cross-asset markets</li><li>Foreign exchange</li><li>Coding, automation and AI research</li><li>Fundamental equity analysis</li><li>Portfolio risk and model robustness</li></ul></div>
           </div>
         </article>
         <article className="leader-card">
           <div className="leader-portrait"><Image src="/founders/theo-cooper-2026.jpg" alt="Portrait of Theo Cooper, Co-Founder of Allen & Cooper" fill sizes="(max-width: 800px) 100vw, 50vw" /></div>
           <div className="leader-details">
             <Eyebrow>CO-FOUNDER</Eyebrow><h3>Theo Cooper</h3><div className="role">Co-Founder</div>
-            <p>Theo Cooper is Co-Founder of Allen &amp; Cooper. He examines how macroeconomic fundamentals shape economic performance and exchange-rate dynamics, with a particular interest in assessing currencies through relative economic conditions. His research interests also extend to individual equities, where he focuses on company fundamentals, business performance and quantitative valuation methods to assess the drivers of a stock’s value.</p>
-            <div className="leader-focus"><span>AREAS OF INTEREST</span><ul><li>Macroeconomic fundamentals</li><li>Foreign exchange and relative performance</li><li>Single-stock equity research</li><li>Company fundamental analysis</li><li>Quantitative equity valuation</li></ul></div>
+            <p>Theo Cooper is Co-Founder of Allen &amp; Cooper. His work focuses on quantitative macroeconomics and the relationship between economic fundamentals and relative market performance, particularly across countries and equity indices. Drawing on the firm's broader research frameworks, he develops advanced mathematical and statistical models to examine valuation, correlations, spreads and momentum. He also specialises in detailed equity valuation, extending fundamental company analysis through rigorous quantitative modelling.</p>
+            <div className="leader-focus"><span>AREAS OF INTEREST</span><ul><li>Fundamental macroeconomics</li><li>Relative economic and index performance</li><li>Advanced mathematical modelling</li><li>Correlations, spreads and momentum</li><li>Quantitative equity valuation</li></ul></div>
           </div>
         </article>
       </div></div></section>
