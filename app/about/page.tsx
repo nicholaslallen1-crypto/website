@@ -23,7 +23,7 @@ export default function About() {
           <div className="leader-portrait"><Image src="/founders/theo-cooper-2026.jpg" alt="Portrait of Theo Cooper, Co-Founder of Allen & Cooper" fill sizes="(max-width: 800px) 100vw, 50vw" /></div>
           <div className="leader-details">
             <Eyebrow>CO-FOUNDER</Eyebrow><h3>Theo Cooper</h3><div className="role">Co-Founder</div>
-            <p>Theo Cooper is Co-Founder of Allen &amp; Cooper. His interests lie in macroeconomic analysis and how fundamental developments shape economic conditions and relative currency performance. He is particularly interested in applying cross-country macroeconomic comparisons to foreign-exchange markets, alongside single-stock equity research, company fundamentals and quantitative approaches to equity valuation.</p>
+            <p>Theo Cooper is Co-Founder of Allen &amp; Cooper. He examines how macroeconomic fundamentals shape economic performance and exchange-rate dynamics, with a particular interest in assessing currencies through relative economic conditions. His research interests also extend to individual equities, where he focuses on company fundamentals, business performance and quantitative valuation methods to assess the drivers of a stock’s value.</p>
             <div className="leader-focus"><span>AREAS OF INTEREST</span><ul><li>Macroeconomic fundamentals</li><li>Foreign exchange and relative performance</li><li>Single-stock equity research</li><li>Company fundamental analysis</li><li>Quantitative equity valuation</li></ul></div>
           </div>
         </article>
