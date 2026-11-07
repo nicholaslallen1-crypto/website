@@ -428,7 +428,7 @@ h1 em,h2 em{font-style:normal;color:var(--gold)}
   position: relative;
   width: 100%;
   min-height: 0;
-  aspect-ratio: 1 / 1;
+  aspect-ratio: 3 / 4;
   overflow: hidden;
   background: var(--navy);
 }
@@ -447,7 +447,7 @@ h1 em,h2 em{font-style:normal;color:var(--gold)}
     grid-template-columns: 1fr;
   }
   .leadership-grid .leader-portrait {
-    aspect-ratio: 1 / 1;
+    aspect-ratio: 3 / 4;
     min-height: 0;
   }
 }
