@@ -14,7 +14,6 @@ export function Logo({ light = false }: { light?: boolean }) {
           className="brand-image"
         />
       </span>
-      <span className="brand-caption">Independent market intelligence</span>
     </Link>
   );
 }
